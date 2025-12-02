@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 595.28 841.89">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        fill: none;
+      }
+
+      .st0, .st1, .st2, .st3, .st4 {
+        stroke-miterlimit: 10;
+      }
+
+      .st0, .st4 {
+        stroke: #9a5330;
+      }
+
+      .st5 {
+        font-size: 24px;
+      }
+
+      .st5, .st6 {
+        font-family: MonotypeCorsiva, 'Monotype Corsiva';
+      }
+
+      .st5, .st6, .st7 {
+        isolation: isolate;
+      }
+
+      .st5, .st6, .st8 {
+        fill: #9a5330;
+      }
+
+      .st1, .st3 {
+        stroke: #020202;
+      }
+
+      .st2 {
+        fill: #fff;
+        stroke: #231f20;
+      }
+
+      .st6 {
+        font-size: 72px;
+      }
+
+      .st3 {
+        fill: #ddccc0;
+      }
+
+      .st4, .st9 {
+        fill: #d7b792;
+      }
+    </style>
+  </defs>
+  <path class="st2" d="M350.06,285.21"/>
+  <polygon class="st8" points="419.6 242.28 478.63 303.53 478.63 721.02 418.29 774.21 163.42 773.21 109.25 724.48 108.23 305.14 164.84 242.28 419.6 242.28"/>
+  <path class="st1" d="M-110.94,413.14"/>
+  <path class="st1" d="M506.94,242.28"/>
+  <path class="st1" d="M27.31,2.79"/>
+  <g>
+    <polygon class="st4" points="227.83 59.32 357.23 59.32 382.3 98.81 351.89 165.58 356.42 167.32 356.42 184.25 349.95 197.14 356.42 212.46 366.93 232.6 368.55 242.28 215.7 242.28 218.93 238.25 226.21 217.29 235.11 205.2 235.92 197.14 231.87 185.86 230.25 176.99 231.87 171.35 238.34 168.13 201.95 100.43 227.83 59.32"/>
+    <path class="st0" d="M231.65,185.86c15.96,2.78,34.95,4.9,56.34,4.99,26.34.11,49.26-2.89,67.71-6.6"/>
+    <path class="st0" d="M355.7,212.32c-16.17,4.62-38.25,9.24-64.71,9.96-26.24.71-48.39-2.65-64.71-6.35"/>
+    <polyline class="st0" points="201.23 100.43 223.74 93.17 253.8 93.17 329.02 93.17 350.85 93.17 381.58 98.81"/>
+    <path class="st0" d="M359.24,217.64c-16.77,4.68-39.67,9.37-67.12,10.09-27.22.72-50.19-2.69-67.12-6.43"/>
+    <path class="st0" d="M234.66,195.02c15.08,2.78,33.02,4.9,53.24,4.99,24.89.11,46.55-2.89,63.98-6.6"/>
+    <path class="st0" d="M237.63,168.13c11.23,3.87,29.15,8.52,51.45,7.95,25.2-.65,51.13-5.27,62.49-10.37"/>
+  </g>
+  <path class="st3" d="M394.75,166.67"/>
+  <polygon class="st9" points="167.43 254.21 418.56 254.21 466.46 303.21 466.46 707.21 421.3 759.21 167.43 759.21 122.28 709.21 122.28 305.21 167.43 254.21"/>
+  <g class="st7">
+    <text class="st6" transform="translate(207.95 443.6)"><tspan x="0" y="0">petalia</tspan></text>
+  </g>
+  <g class="st7">
+    <text class="st5" transform="translate(200.55 480.21)"><tspan x="0" y="0">The Essence For You</tspan></text>
+  </g>
+  <g class="st7">
+    <text class="st5" transform="translate(263.04 686.67)"><tspan x="0" y="0">200</tspan></text>
+    <text class="st5" transform="translate(294.72 686.67)"><tspan x="0" y="0" xml:space="preserve"> ML</tspan></text>
+  </g>
+  <g class="st7">
+    <text class="st5" transform="translate(230.54 661.33) scale(1.25 1)"><tspan x="0" y="0" xml:space="preserve">Desert  Aura</tspan></text>
+  </g>
+</svg>
